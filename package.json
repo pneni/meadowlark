@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Basic learning project on Express",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pneni/meadowlark.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
